@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="tehtava5" />
+        <module name="tehtava6" />
+        <module name="Today" />
       </profile>
     </annotationProcessing>
   </component>
